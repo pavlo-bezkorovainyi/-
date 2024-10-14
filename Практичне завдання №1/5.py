@@ -1,0 +1,6 @@
+print("Pavlo Bezkorovainyi")
+print("Ukraine")
+print("33000")
+print("Rivne")
+print("Kyluka i Gydacheka")
+print("4")
